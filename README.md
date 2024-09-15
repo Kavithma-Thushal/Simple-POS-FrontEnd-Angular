@@ -1,6 +1,6 @@
-# 🌟 Angular Self Learning 🌟
+# 🌟 Simple POS - Angular 🌟
 
-This Angular self-learning project is designed to help you gain hands-on experience in building and understanding the core concepts of Angular applications. It covers the basics of the Angular framework, component-based architecture, services, routing, and state management.
+The Simple POS project is a robust and efficient system designed to support a Point of Sale (POS) application. Built with Angular, this project provides essential functionalities for managing customers, item details, and order processing, with frontend.
 
 ## 🛠️ Tech Stack
 
@@ -15,12 +15,10 @@ This Angular self-learning project is designed to help you gain hands-on experie
 
 ## 🚀 Features
 
-✅ Component-based architecture<br/>
-✅ Services and Dependency Injection<br/>
-✅ Routing and Navigation<br/>
-✅ Forms and Validation<br/>
-✅ HTTP Client Integration<br/>
-✅ State Management with RxJS<br/>
+✅ Manage Customers<br/>
+✅ Manage Items<br/>
+✅ Place Orders<br/>
+✅ View Order Details<br/>
 
 ## 📝 Version
 
