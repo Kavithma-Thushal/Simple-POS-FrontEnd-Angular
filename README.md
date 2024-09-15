@@ -1,27 +1,41 @@
-# AngularSelfLearning
+# 🌟 Angular Self Learning 🌟
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.4.
+This Angular self-learning project is designed to help you gain hands-on experience in building and understanding the core concepts of Angular applications. It covers the basics of the Angular framework, component-based architecture, services, routing, and state management.
 
-## Development server
+## 🛠️ Tech Stack
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+✅ **Angular**<br/>
+✅ **HTML**<br/>
+✅ **CSS**<br/>
+✅ **JS**<br/>
+✅ **TS**<br/>
+✅ **RxJS**<br/>
+✅ **Bootstrap**<br/>
+✅ **JQuery**<br/>
 
-## Code scaffolding
+## 🚀 Features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+✅ Component-based architecture<br/>
+✅ Services and Dependency Injection<br/>
+✅ Routing and Navigation<br/>
+✅ Forms and Validation<br/>
+✅ HTTP Client Integration<br/>
+✅ State Management with RxJS<br/>
 
-## Build
+## 📝 Version
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+**1.0.0**
 
-## Running unit tests
+## 📬 Get in Touch
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+If you encounter any issues, have questions, or need assistance with the code, feel free to reach out!
 
-## Running end-to-end tests
+📧 [kavithmathushal9007@gmail.com](mailto:kavithmathushal9007@gmail.com)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<div align="center">
 
-## Further help
+#### This project is licensed under the [GNU License](LICENSE)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+#### © 2024 All Rights Reserved | Designed by [Kavithma Thushal](https://github.com/Kavithma-Thushal)
+
+</div>
