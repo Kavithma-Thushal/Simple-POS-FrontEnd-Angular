@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "Angular-Self-Learning": {
+    "Simple-POS-Angular": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/angular-self-learning",
+            "outputPath": "dist/simple-pos-angular",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -64,10 +64,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "Angular-Self-Learning:build:production"
+              "buildTarget": "Simple-POS-Angular:build:production"
             },
             "development": {
-              "buildTarget": "Angular-Self-Learning:build:development"
+              "buildTarget": "Simple-POS-Angular:build:development"
             }
           },
           "defaultConfiguration": "development"
