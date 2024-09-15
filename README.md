@@ -10,7 +10,7 @@ This Angular self-learning project is designed to help you gain hands-on experie
 ✅ **JS**<br/>
 ✅ **TS**<br/>
 ✅ **RxJS**<br/>
-✅ **Bootstrap**<br/>
+✅ **Tailwind**<br/>
 ✅ **JQuery**<br/>
 
 ## 🚀 Features
