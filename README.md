@@ -1,4 +1,4 @@
-# 🌟 Simple POS - Angular 🌟
+# 🌟 Simple POS FrontEnd - Angular 🌟
 
 The Simple POS project is a powerful and efficient system tailored to meet the needs of a modern Point of Sale (POS) application.
 Developed using Angular for the frontend, this solution offers comprehensive functionalities for managing customer data, item details,

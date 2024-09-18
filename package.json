@@ -1,6 +1,14 @@
 {
-  "name": "simple-pos-front-end-angular",
-  "version": "0.0.0",
+  "name": "simple-pos-frontend-angular",
+  "version": "1.0.0",
+  "description": "Simple POS FrontEnd Implemented Using Angular.",
+  "keywords": [
+    "angular",
+    "framework",
+    "pos"
+  ],
+  "author": "Kavithma Thushal",
+  "license": "GNU",
   "private": true,
   "scripts": {
     "ng": "ng",
