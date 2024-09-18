@@ -1,24 +1,13 @@
 {
-  "name": "simple-pos-angular",
-  "version": "1.0.0",
-  "description": "Simple POS Application FrontEnd Implemented Using Angular.",
-  "keywords": [
-    "angular",
-    "framework",
-    "pos",
-    "frontend",
-    "self-learning"
-  ],
-  "author": "Kavithma Thushal",
-  "license": "GPL-3.0-only",
+  "name": "simple-pos-front-end-angular",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test",
-    "serve:ssr:Simple-POS-Angular": "node dist/simple-pos-angular/server/server.mjs"
+    "test": "ng test"
   },
   "dependencies": {
     "@angular/animations": "^18.2.0",
@@ -28,14 +17,8 @@
     "@angular/forms": "^18.2.0",
     "@angular/platform-browser": "^18.2.0",
     "@angular/platform-browser-dynamic": "^18.2.0",
-    "@angular/platform-server": "^18.2.0",
     "@angular/router": "^18.2.0",
-    "@angular/ssr": "^18.2.4",
-    "autoprefixer": "^10.4.20",
-    "express": "^4.18.2",
-    "postcss": "^8.4.47",
     "rxjs": "~7.8.0",
-    "tailwindcss": "^3.4.11",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.10"
   },
@@ -43,9 +26,7 @@
     "@angular-devkit/build-angular": "^18.2.4",
     "@angular/cli": "^18.2.4",
     "@angular/compiler-cli": "^18.2.0",
-    "@types/express": "^4.17.17",
     "@types/jasmine": "~5.1.0",
-    "@types/node": "^18.18.0",
     "jasmine-core": "~5.2.0",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.2.0",
